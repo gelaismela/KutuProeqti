@@ -477,6 +477,7 @@ footer {
 }
 
 .footer-title {
+  color: var(--bg-light);
   font-weight: 700;
   margin-bottom: 25px;
   position: relative;
